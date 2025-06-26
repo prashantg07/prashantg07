@@ -5,9 +5,9 @@
 I’m a passionate **Frontend Developer** who enjoys crafting sleek, efficient, and interactive web experiences. I believe in writing **clean, scalable code** and continuously exploring new web technologies.  
 
 ### 🔥 Tech Stack  
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap  
-- **Tools:** Git, Webpack, Figma, VS Code  
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap, React Router, Shadcn UI, Redux  
+- **Tools:** Git, GitHub, VS Code, Postman, Clerk, Firebase, Vercel, Netlify, Webpack, Figma  
 
 ### 🌱 Currently Learning  
 - Advanced **React Patterns & Performance Optimization**  
